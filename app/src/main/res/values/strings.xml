@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Thirty Days</string>
+
+
+    <!--day number-->
+    <string name="day_one">Day one</string>
+    <string name="day_two">Day two</string>
+    <string name="day_three">Day three</string>
+    <string name="day_four">Day four</string>
+    <string name="day_five">Day five</string>
+    <string name="day_six">Day six</string>
+    <string name="day_seven">Day seven</string>
+    <string name="day_eight">Day eight</string>
+    <string name="day_nine">Day nine</string>
+    <string name="day_ten">Day ten</string>
+    <string name="day_eleven">Day eleven</string>
+    <string name="day_twelve">Day twelve</string>
+    <string name="day_thirteen">Day thirteen</string>
+    <string name="day_fourteen">Day fourteen</string>
+    <string name="day_fifteen">Day fifteen</string>
+    <string name="day_sixteen">Day sixteen</string>
+    <string name="day_seventeen">Day seventeen</string>
+    <string name="day_eighteen">Day eighteen</string>
+    <string name="day_nineteen">Day nineteen</string>
+    <string name="day_twenty">Day twenty</string>
+    <string name="day_twenty_one">Day twenty one</string>
+    <string name="day_twenty_two">Day twenty two</string>
+    <string name="day_twenty_three">Day twenty three</string>
+    <string name="day_twenty_four">Day twenty four</string>
+    <string name="day_twenty_five">Day twenty five</string>
+    <string name="day_twenty_six">Day twenty six</string>
+    <string name="day_twenty_seven">Day twenty seven</string>
+    <string name="day_twenty_eight">Day twenty eight</string>
+    <string name="day_twenty_nine">Day twenty nine</string>
+    <string name="day_thirty">Day thirty</string>
+
+    <!--todo title-->
+    <string name="ada_ghana">Ada Ghana</string>
+    <string name="blue_image">Blue Image</string>
+    <string name="blue_sky">Blue Sky</string>
+    <string name="cave">Cave</string>
+    <string name="chameleon">Chameleon</string>
+    <string name="dry_land">Dry Land</string>
+    <string name="dry_road">Dry Road</string>
+    <string name="ecobank">Ecobank</string>
+    <string name="elephant_mole_national_park">Elephant Mole National Park</string>
+    <string name="face_of_ghana">Face of Ghana</string>
+    <string name="fish">Fish</string>
+    <string name="fishing_elmina_ghana">Fishing Elmina Ghana</string>
+    <string name="ghana_festival">Ghana Festival</string>
+    <string name="ghana_trade_fair_centre">Ghana Trade Fair Centre</string>
+    <string name="green_land">Green Land</string>
+    <string name="green_sea">Green Sea</string>
+    <string name="independence_square">Independence Square</string>
+    <string name="kakum_walk">Kakum Walk</string>
+    <string name="kejetia_road_kumasi">Kejetia Road Kumasi</string>
+    <string name="nation_theatre">National Theatre</string>
+    <string name="outside">Outside</string>
+    <string name="river">River</string>
+    <string name="rock_on_water">Rock on Water</string>
+    <string name="rock_view">Rock View</string>
+    <string name="rock_view_pour">Rock View Pour</string>
+    <string name="rocks">Rocks</string>
+    <string name="sea_horse">Sea Horse</string>
+    <string name="sky">Sky</string>
+    <string name="town_view">Town View</string>
+    <string name="woman_dancing">Woman Dancing</string>
+
+
+    <!-- Activities for 30 days -->
+    <string name="day_1_activity">Explore the history of Ada Ghana</string>
+    <string name="day_2_activity">Capture images of the blue sky</string>
+    <string name="day_3_activity">Visit a cave and learn about its formations</string>
+    <string name="day_4_activity">Observe a chameleon in its habitat</string>
+    <string name="day_5_activity">Walk through dry land and appreciate nature</string>
+    <string name="day_6_activity">Drive through a dry road to explore the countryside</string>
+    <string name="day_7_activity">Visit an Ecobank branch for banking services</string>
+    <string name="day_8_activity">Take a tour at Elephant Mole National Park</string>
+    <string name="day_9_activity">Experience cultural heritage at Face of Ghana</string>
+    <string name="day_10_activity">Go fishing in Elmina, Ghana</string>
+    <string name="day_11_activity">Attend a Ghanaian festival</string>
+    <string name="day_12_activity">Explore Ghana Trade Fair Centre</string>
+    <string name="day_13_activity">Enjoy the greenery of a land area</string>
+    <string name="day_14_activity">Visit a green sea location and relax</string>
+    <string name="day_15_activity">Explore Independence Square in Ghana</string>
+    <string name="day_16_activity">Take a canopy walk at Kakum National Park</string>
+    <string name="day_17_activity">Visit Kejetia Road in Kumasi</string>
+    <string name="day_18_activity">Attend a performance at the National Theatre</string>
+    <string name="day_19_activity">Spend time outside in nature</string>
+    <string name="day_20_activity">Relax by a river and enjoy the view</string>
+    <string name="day_21_activity">See the beauty of rocks on water</string>
+    <string name="day_22_activity">Enjoy a scenic rock view</string>
+    <string name="day_23_activity">Visit Rock View Pour to see waterfalls</string>
+    <string name="day_24_activity">Explore different rock formations</string>
+    <string name="day_25_activity">Observe a sea horse in the ocean</string>
+    <string name="day_26_activity">Look up at the vast sky and reflect</string>
+    <string name="day_27_activity">Take a tour of a town and its culture</string>
+    <string name="day_28_activity">Watch a traditional woman dancing</string>
+    <string name="day_29_activity">Participate in a local dance performance</string>
+    <string name="day_30_activity">Summarize and reflect on the 30-day journey</string>
+    <string name="thirty_days_tips">thirtydays tips</string>
+</resources>
