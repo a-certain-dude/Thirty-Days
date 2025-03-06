@@ -26,5 +26,6 @@ val Typography = Typography(
         fontFamily = montserate,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
-    )
+    ),
+    bodyLarge = TextStyle(fontFamily = montserate, fontSize = 14.sp, fontWeight =  FontWeight.Normal)
 )
